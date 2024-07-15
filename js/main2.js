@@ -1,6 +1,6 @@
 import { links } from "./links2.js"; 
 
-const linkContainer = document.getElementById("links2"); 
+const linkContainer = document.getElementById("links"); 
 
 function addLink(name, link, image) { 
 	return ` 
